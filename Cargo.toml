@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "moly-server",
+    "moly-protocol"
+]
+resolver = "2"
